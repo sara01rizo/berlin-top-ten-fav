@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  text-decoration-style: none;
+}
+
+h1 {
+  font-size: 46px;
+  color: purple;
+  text-transform: uppercase;
+}
+
+li {
+  list-style: none;
+}
